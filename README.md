@@ -31,15 +31,9 @@ The objective of this project was to create a detailed incident report by analyz
 4. Detect: I outlined the detection enhancements made to identify similar threats.
 5. Respond: I explained the response strategy for managing and analyzing future incidents.
 6. Recover: I detailed the recovery steps to restore normal network operations and prevent future issues.
-- <a href="https://docs.google.com/document/d/1sWV1ljQTq3_BKBpe-YC6jaQZ1XnHwSganezDMraa_pM/edit?usp=sharing">Link to Documentation and Report</a>
+- <a href="https://docs.google.com/document/d/1rKppi40WstRskj3OZ0Yv1d9O6Zz2PYIIALRWryVF4YQ/edit?usp=sharing">Link to the Report</a>
 
-
-## Key Findings
-
-- Compliance Gaps: Identified specific areas where Botium Toys' current practices do not fully align with NIST CSF standards.
-- Risk Areas: Highlighted potential risks related to online payment processing and data protection, especially concerning E.U. regulations.
-- Recommendations: Provided actionable recommendations to enhance security and compliance, including policy updates and infrastructure improvements.
 
 ## Conclusion
 
-The internal security audit for Botium Toys provided critical insights into the company's IT security posture. By addressing the identified risks and compliance gaps, Botium Toys can better secure its infrastructure and continue to grow its online presence safely and in compliance with international regulations.
+This project highlights the importance of a structured approach to incident analysis and response using the NIST CSF. By following this framework, organizations can better protect their assets, detect potential threats, respond effectively to incidents, and recover quickly from disruptions.
