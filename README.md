@@ -2,11 +2,13 @@
 
 ## Project Background
 
-This project focuses on analyzing a cybersecurity incident that affected a multimedia company's internal network. The incident involved a Distributed Denial of Service (DDoS) attack that disrupted network services for two hours. As a cybersecurity analyst, my task was to use the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to assess the incident, develop a comprehensive security strategy, and recommend improvements to enhance the company’s network security posture.
+In this project, I addressed a real-world scenario where a multimedia company experienced a Distributed Denial of Service (DDoS) attack that disrupted the internal network for two hours. The attack involved a flood of ICMP packets, which overwhelmed the network and caused a complete shutdown of services.
+
+As part of the incident management team, we quickly responded by blocking the ICMP packets, shutting down non-critical services, and restoring critical ones. An investigation revealed that the attack was possible due to an unconfigured firewall. To prevent future attacks, we implemented a new firewall rule, source IP verification, network monitoring, and an IDS/IPS system.
 
 ## Objective
 
-The objective of this project was to create a detailed incident report by analyzing a network incident using the NIST Cybersecurity Framework. The aim was to demonstrate a proactive approach to security, enhance communication with stakeholders, and improve the organization’s security practices.
+The objective of this project was to create a detailed incident report by analyzing a network incident using the NIST Cybersecurity Framework. The goal was to demonstrate a proactive approach to security, enhance communication with stakeholders, and improve the organization’s security practices.
 
 ### Skills Learned
 
