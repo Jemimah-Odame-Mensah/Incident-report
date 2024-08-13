@@ -24,22 +24,13 @@ The objective of this project was to create a detailed incident report by analyz
 
 
 ## Steps
-### 1. Review of Scope, Goals, and Risk Assessment Report:
-- Analyzed the IT manager’s defined scope and goals for the audit.
-- Reviewed the risk assessment report to understand the potential risks and vulnerabilities facing Botium Toys.
-- <a href="https://docs.google.com/document/d/1CjwLtK3YEr9xAnOio_IvR0Wwtj5RUkNLIUJ59tV41lU/edit?usp=sharing">Link to Scope, Goals, and Risk Assessment Report</a>
-       
-### 2. Preparation of Controls and Compliance Checklist:
-- Accessed the controls and compliance checklist template.
-- Customized the checklist based on Botium Toys' specific needs and regulatory requirements.
 
-### 3. Execution of the Audit:
-- Conducted the internal audit by systematically assessing each control category.
-- Checked compliance with NIST CSF guidelines and identified areas of non-compliance or potential risk.
-
-### 4. Documentation and Reporting:
-- Documented findings, including identified risks, non-compliance issues, and recommendations for improvement.
-- Compiled a comprehensive audit report summarizing the security posture of Botium Toys and suggested action plans.
+1. Incident Summary: I summarized the security event, its cause, impact, and the response taken.
+2. Identify: I identified the attack type and affected systems.
+3. Protect: I described the protective measures implemented to mitigate the attack.
+4. Detect: I outlined the detection enhancements made to identify similar threats.
+5. Respond: I explained the response strategy for managing and analyzing future incidents.
+6. Recover: I detailed the recovery steps to restore normal network operations and prevent future issues.
 - <a href="https://docs.google.com/document/d/1sWV1ljQTq3_BKBpe-YC6jaQZ1XnHwSganezDMraa_pM/edit?usp=sharing">Link to Documentation and Report</a>
 
 
