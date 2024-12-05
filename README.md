@@ -1,5 +1,7 @@
 # Cybersecurity Incident Report
 
+As part of my Google cybersecurity training, I addressed a real-world scenario involving a Distributed Denial of Service (DDoS) attack that disrupted network services. Using the NIST Cybersecurity Framework, I created an incident report to analyze the attack, propose mitigations, and improve response strategies. This project showcased my ability to apply structured approaches to incident response and strengthen organizational security practices.
+
 ## Project Background
 
 In this project, I addressed a real-world scenario where a multimedia company experienced a Distributed Denial of Service (DDoS) attack that disrupted the internal network for two hours. The attack involved a flood of ICMP packets, which overwhelmed the network and caused a complete shutdown of services.
